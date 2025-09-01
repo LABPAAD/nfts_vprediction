@@ -83,6 +83,8 @@ Para reproduzir os resultados:
 - Execute.
 
 # Autores
-Nara Raquel Dias Andrade 
+ @NaraAndrad3
 
-Oscar Willian 
+ @OscarWilliamM
+
+ @gdgnew
