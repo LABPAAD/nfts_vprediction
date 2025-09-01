@@ -61,3 +61,28 @@ Os resultados apresentados na Tabela 1 indicam que MLP apresentou a maior acurá
 A análise SHAP revelou que a métrica NFT_mean_origin (o preço médio dos NFTs vendidos por um usuário) foi a feature mais relevante para as previsões do modelo, validando a hipótese de que o histórico de transações de um nó é um forte indicador de valor.
 
 ![alt text](image.png)
+
+
+## Requisitos
+
+Para executar o código deste repositório, você precisará das seguintes bibliotecas 
+Python. Elas podem ser instaladas via pip:
+
+  ` pip install pandas numpy scikit-learn matplotlib seaborn openpyxl shap`
+
+### Como Usar
+
+Para reproduzir os resultados:
+
+- Clone este repositório para a sua máquina local.
+
+- Certifique-se de que os arquivos de dados estejam no mesmo diretório.
+
+- Abra o notebook models.ipynb no Jupyter ou em um ambiente de sua preferência.
+
+- Execute.
+
+# Autores
+Nara Raquel Dias Andrade 
+
+Oscar Willian 
