@@ -5,7 +5,7 @@ Este projeto de pesquisa explora a relação entre a posição estrutural de um 
 > As ferramentas utilizadas para a realização deste projeto foram:
 > `sklearn, SHapley Additive exPlanations`
 
-Nossos experimentos foram realizados com as implementações de métodos de regressão da biblioteca _scikit-learn_ da linguagem _Python_ [[Pedregosa et al., 2011]](https://scikit-learn.org/stable/whats_new/v0.24.html). 
+Nossos experimentos foram realizados com as implementações de métodos de classificação da biblioteca _scikit-learn_ da linguagem _Python_ [[Pedregosa et al., 2011]](https://scikit-learn.org/stable/whats_new/v0.24.html). 
 - Os métodos de aprendizado de máquina utilizados são:
 
 - _Floresta Aleatória_ (RF)
